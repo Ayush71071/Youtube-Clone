@@ -6,7 +6,7 @@ A fully responsive YouTube clone built with **React.js**, powered by the **YouTu
 
 ## 🚀 Live Demo
 
-> _Coming soon / Add your deployed URL here_
+> https://youtubeclone710.vercel.app/
 
 ---
 
